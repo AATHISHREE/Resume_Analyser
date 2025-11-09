@@ -21,7 +21,6 @@ This project demonstrates full-stack integration between a GUI-based frontend an
 | Layer | Technology |
 |--------|-------------|
 | Frontend | Java Swing |
-| Backend | Java (JDBC) |
 | Database | PostgreSQL |
 | IDE | Eclipse |
 | Version Control | Git & GitHub |
