@@ -12,7 +12,6 @@ This project demonstrates full-stack integration between a GUI-based frontend an
 - 🗄️ Store structured data in **PostgreSQL**  
 - 🔍 Search and filter candidate details  
 - 💻 User-friendly interface built with **Java Swing**  
-- ⚙️ Smooth database integration via **JDBC**
 
 ---
 
